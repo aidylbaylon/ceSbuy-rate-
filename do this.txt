@@ -1,0 +1,9 @@
+
+	
+	To do!
+
+		•	CSS from different pages
+		•	your_posts.php
+		•	edit_post.php
+		•	Post a Free Ad < Remove these shits
+		•	Add content
